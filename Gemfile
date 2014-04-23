@@ -9,6 +9,7 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-vkontakte'
 gem 'haml-rails'
+gem 'localtunnel'
 
 group :assets do
   gem 'sass-rails', '4.0.3'
